@@ -1,7 +1,7 @@
 # Autonomous UAV Navigation Using Sample-based and Reinforcement Learning Methods
 
 ## RRT star and RRT with Minimum snap
-The RRT and RRT star method with Minimum snap trajectory generation.
+The RRT and RRT star method with Minimum snap trajectory generation. To see technical details, please take a look at our [report](https://github.com/ChrisSun99/uav_motion_planner/blob/main/ESE650_Final_Project.pdf).
 
 
 
